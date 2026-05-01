@@ -1,2 +1,4 @@
-# custom-deepseek-cli
-A custom Deepseek CLI to run in terminal with a simple UI. NOTE: THIS WAS CREATED WITH AI ASSISTANCE
+#DeepSeek Terminal Companion
+
+A lightweight, interactive CLI client for DeepSeek LLMs. Experience a streamlined AI chat interface directly in your terminal with real-time streaming and soon to be session history.
+Built with a blend of human architecture and AI optimization.
