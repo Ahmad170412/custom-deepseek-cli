@@ -1,4 +1,4 @@
-#DeepSeek Terminal Companion
+#DeepSeek Terminal Companion#
 
 A lightweight, interactive CLI client for DeepSeek LLMs. Experience a streamlined AI chat interface directly in your terminal with real-time streaming and soon to be session history.
 Built with a blend of human architecture and AI optimization.
